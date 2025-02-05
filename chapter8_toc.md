@@ -1,0 +1,25 @@
+# Chapter 8
+
+## Table of Contents
+
+- [Defender SOC – Responding to Threats](#chapter-8---defender-soc--responding-to-threats)
+  - [Introduction](#chapter-8---introduction)
+  - [Structure](#chapter-8---structure)
+  - [Objectives](#chapter-8---objectives)
+- [Regulatory compliance considerations](#chapter-8---regulatory-compliance-considerations)
+- [Incident response and mitigation](#chapter-8---incident-response-and-mitigation)
+  - [Features of MDE in incident response](#chapter-8---features-of-mde-in-incident-response)
+  - [Steps to mitigate and contain security incidents](#chapter-8---steps-to-mitigate-and-contain-security-incidents)
+- [Case management in MDE](#chapter-8---case-management-in-mde)
+  - [Features of case management](#chapter-8---features-of-case-management)
+  - [Managing security incident response and recovery](#chapter-8---managing-security-incident-response-and-recovery)
+- [Responding to threats](#chapter-8---responding-to-threats)
+- [Professional services](#chapter-8---professional-services)
+- [Live response feature](#chapter-8---live-response-feature)
+- [Automated investigation](#chapter-8---automated-investigation)
+- [Device isolation](#chapter-8---device-isolation)
+  - [Isolate device](#chapter-8---isolate-device)
+  - [Microsoft Defender Expert option during live response](#chapter-8---microsoft-defender-expert-option-during-live-response)
+  - [Device value option](#chapter-8---device-value-option)
+- [Action center](#chapter-8---action-center)
+- [Conclusion](#chapter-8---conclusion)

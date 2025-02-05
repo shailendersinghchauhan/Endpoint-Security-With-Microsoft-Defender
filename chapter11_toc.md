@@ -1,0 +1,27 @@
+# Chapter 11
+
+## Table of Contents
+
+- [Endpoint Security for Cloud Environments](#chapter-11---endpoint-security-for-cloud-environments)
+  - [Introduction](#chapter-11---introduction)
+  - [Structure](#chapter-11---structure)
+  - [Objectives](#chapter-11---objectives)
+- [Understand DevSecOps](#chapter-11---understand-devsecops)
+  - [Code quality metrics system](#chapter-11---code-quality-metrics-system)
+  - [Third-party libraries scanner](#chapter-11---third-party-libraries-scanner)
+  - [Container scanners](#chapter-11---container-scanners)
+  - [Infrastructure scanning](#chapter-11---infrastructure-scanning)
+- [Understand security of containers and container platform](#chapter-11---understand-security-of-containers-and-container-platform)
+  - [Registry scanning](#chapter-11---registry-scanning)
+  - [Pipeline scanning](#chapter-11---pipeline-scanning)
+  - [Benefits of application container security](#chapter-11---benefits-of-application-container-security)
+- [Kubernetes architecture](#chapter-11---kubernetes-architecture)
+  - [Container platform infrastructure security](#chapter-11---container-platform-infrastructure-security)
+  - [Container security application features](#chapter-11---container-security-application-features)
+  - [Function as a Service security](#chapter-11---function-as-a-service-security)
+- [Microsoft Defender for Cloud](#chapter-11---microsoft-defender-for-cloud)
+  - [Integration with Microsoft Defender XDR](#chapter-11---integration-with-microsoft-defender-xdr)
+  - [MDFC screenshot references](#chapter-11---mdfc-screenshot-references)
+  - [MCRA architecture for SOC](#chapter-11---mcra-architecture-for-soc)
+- [Azure Arc](#chapter-11---azure-arc)
+- [Conclusion](#chapter-11---conclusion)

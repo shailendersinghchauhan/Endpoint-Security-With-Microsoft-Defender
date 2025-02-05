@@ -1,0 +1,26 @@
+# Chapter 6
+
+## Table of Contents
+
+- [Defender SOC – Monitoring and Alerting](#chapter-6---defender-soc--monitoring-and-alerting)
+  - [Introduction](#chapter-6---introduction)
+  - [Structure](#chapter-6---structure)
+  - [Objectives](#chapter-6---objectives)
+- [Guide for monitoring](#chapter-6---guide-for-monitoring)
+- [Providing insights into potential security incidents](#chapter-6---providing-insights-into-potential-security-incidents)
+- [Monitoring security posture](#chapter-6---monitoring-security-posture)
+- [Security key performance indicator](#chapter-6---security-key-performance-indicator)
+- [Informative report screenshots](#chapter-6---informative-report-screenshots)
+- [Security report](#chapter-6---security-report)
+- [Threat protection](#chapter-6---threat-protection)
+- [Device health](#chapter-6---device-health)
+- [Vulnerable devices](#chapter-6---vulnerable-devices)
+- [Monthly security summary](#chapter-6---monthly-security-summary)
+- [Web protection](#chapter-6---web-protection)
+- [Firewall](#chapter-6---firewall)
+- [Device control](#chapter-6---device-control)
+- [ASR rules](#chapter-6---asr-rules)
+- [Alert settings on MDE portal](#chapter-6---alert-settings-on-mde-portal)
+- [Detecting and alerting on real-time threats](#chapter-6---detecting-and-alerting-on-real-time-threats)
+- [Configure alerts through settings page](#chapter-6---configure-alerts-through-settings-page)
+- [Conclusion](#chapter-6---conclusion)

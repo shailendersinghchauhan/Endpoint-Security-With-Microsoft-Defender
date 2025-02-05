@@ -1,0 +1,35 @@
+# Chapter 12: Managing and Maintaining Microsoft Defender Endpoint
+
+## Table of Contents
+
+- [Introduction](#chapter-12---introduction)
+- [Structure](#chapter-12---structure)
+- [Objectives](#chapter-12---objectives)
+- [Important topics for management and maintenance](#chapter-12---important-topics-for-management-and-maintenance)
+- [Management using Microsoft frameworks](#chapter-12---management-using-microsoft-frameworks)
+- [Microsoft cybersecurity reference architecture](#chapter-12---microsoft-cybersecurity-reference-architecture)
+- [Security adoption framework](#chapter-12---security-adoption-framework)
+  - The following figure represents the SAF framework where the left-hand side shows the roles, the middle shows the responsibilities performed by them, and the extreme right shows the tools leveraged by them: 
+- [Ten laws of cybersecurity risk](#chapter-12---ten-laws-of-cybersecurity-risk)
+- [Immutable laws of security](#chapter-12---immutable-laws-of-security)
+- [Managing information/cyber risk](#chapter-12---managing-informationcyber-risk)
+- [Microsoft security capability mapping](#chapter-12---microsoft-security-capability-mapping)
+- [Threat modelling](#chapter-12---threat-modelling)
+  - [Threat modelling techniques](#chapter-12---threat-modelling-techniques)
+  - [Importance of Microsoft threat models in SOC](#chapter-12---importance-of-microsoft-threat-models-in-soc)
+  - [Microsoft threat modelling tool](#chapter-12---microsoft-threat-modelling-tool)
+- [Understand network attack vectors](#chapter-12---understand-network-attack-vectors)
+  - [Network perimeters for backend IT infra](#chapter-12---network-perimeters-for-backend-it-infra)
+  - [Applications and services under network](#chapter-12---applications-and-services-under-network)
+  - [Understanding threat landscape](#chapter-12---understanding-threat-landscape)
+  - [Ideal traffic flow between environment networks](#chapter-12---ideal-traffic-flow-between-environment-networks)
+  - [Types of network threat](#chapter-12---types-of-network-threat)
+    - [Types of threat to management network](#chapter-12---types-of-threat-to-management-network)
+    - [Types of threat to public network](#chapter-12---types-of-threat-to-public-network)
+    - [Types of threat to web network](#chapter-12---types-of-threat-to-web-network)
+    - [Types of threat to application network](#chapter-12---types-of-threat-to-application-network)
+- [Management of MDE](#chapter-12---management-of-mde)
+- [Using the deception feature](#chapter-12---using-the-deception-feature)
+  - [Setup of deception](#chapter-12---setup-of-deception)
+- [Conclusion](#chapter-12---conclusion)
+
